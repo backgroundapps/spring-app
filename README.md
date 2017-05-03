@@ -1,4 +1,4 @@
-spring-app
+Spring App
 ==========
 
 Spring application test.
